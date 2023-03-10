@@ -12,8 +12,7 @@
 <p align="left"> <a href="https://twitter.com/codingvaleria" target="blank"><img src="https://img.shields.io/twitter/follow/codingvaleria?logo=twitter&style=for-the-badge" alt="codingvaleria" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1yGMjahTEI_u0_Sc9OtKyEPPUr8c5YQRX/edit?usp=share_link&ouid=110666424584024849736&rtpof=true&sd=true](https://docs.google.com/document/d/1yGMjahTEI_u0_Sc9OtKyEPPUr8c5YQRX/edit?usp=share_link&ouid=110666424584024849736&rtpof=true&sd=true)
+- 🌱 I’m love to  **Dance too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
