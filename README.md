@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/codingvaleria" target="blank"><img src="https://img.shields.io/twitter/follow/codingvaleria?logo=twitter&style=for-the-badge" alt="codingvaleria" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby**
-- 🌱 I’m love to  **Dance too**
+- 🌱 I love to dance.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
