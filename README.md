@@ -66,6 +66,3 @@ Hey there, thanks for stopping by my humble corner of the web! My coding skills 
 
 <hr />
 
-## Contributions
-
-[![codingvaleria github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=codingvaleria&theme=gotham)](https://github.com/codingvaleria/github-readme-activity-graph)
